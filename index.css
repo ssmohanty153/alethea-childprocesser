@@ -1,0 +1,24 @@
+
+        .right{
+            float: right;
+            clear: both;
+        }
+        .left{
+            float: left;
+            clear: both;
+        }
+        .message {
+            padding: 2%;
+            color: brown;
+        }
+        body{
+            background-color: yellow;
+        }
+        form#form {
+            
+            padding-top: 50%;
+            padding-left: 40%;
+        }
+        
+        
+   
